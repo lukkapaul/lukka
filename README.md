@@ -1,2 +1,0 @@
-# lukka
-Testing Backlight
